@@ -12,8 +12,10 @@ Proporcionar métodos para mantener la integridad de los datos, para administrar
 Generalmente se accede a ellos mediante lenguajes de consulta.
 
 ### Tipos de licencias
-[Mac OS]:https://www.wired.com/2013/08/jordan-hubbard/
-[PlayStation 3]:https://en.wikipedia.org/wiki/PlayStation_3_system_software
+[Mac OS][Mac-OS]
+[Mac-OS]:https://www.wired.com/2013/08/jordan-hubbard/
+[PlayStation 3][play3]
+[play3]:https://en.wikipedia.org/wiki/PlayStation_3_system_software
 
 Las licencias más utilizadas en las bases de datos pueden dividirse en dos grandes grupos, las privativas y las libres.
 
@@ -21,7 +23,7 @@ Las licencias privativas son usadas por bases de datos como SQL Server de Micros
 
 Por otro lado, las licencias libres pueden dividirse en dos grandes grupos, las licencias permisivas y las no permisivas.
 
-Dentro de las licencias permisivas podemos encontrar la licencia MIT o BSD. La principal característica de estas licencias es que permiten total libertad con el software, no tienen ningún tipo de restricción. Incluso se puede licenciar el trabajo derivado como privativo (véase _Mac OS_ o el Sistema operativo de la consola _PlayStation 3_).
+Dentro de las licencias permisivas podemos encontrar la licencia MIT o BSD. La principal característica de estas licencias es que permiten total libertad con el software, no tienen ningún tipo de restricción. Incluso se puede licenciar el trabajo derivado como privativo (véase _MacOS_ o el Sistema operativo de la consola _PlayStation 3_).
 
 En cambio, las licencias no permisivas se caracterizan por permitir cualquier cambio en el software, siempre y cuando el resultado sea compartido bajo la misma licencia o una similar que permita que el software siga siendo libre.
 
