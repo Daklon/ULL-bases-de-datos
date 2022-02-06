@@ -6,7 +6,7 @@
 - Cristian Vilanova González (alu0101014968)
 - Javier Herrera Serpa (alu0100830972)
 
-## Descipción
+## Descripción
 Esta tarea se divide en varias partes. La primera consiste en la elaboración de un supuesto, definiendo los requistos para dicho supuesto, y su posterior revisión. Una vez tuvimos el visto bueno de los requisitos procedimos a redactar los modelos ER/E, Lógico relacionales y Logico Objeto-Relacional.
 Finalmente pasamos a la parte de implementación creando el script de generación de la estructura de la base de datos y el script para la carga de datos.
 
@@ -21,4 +21,6 @@ El resultado de esta tarea son los siguientes documentos:
 - [Generación de Código](files/script-final.sql)
 - [Carga de datos](files/data.sql)
 
-Dentro de dichos documentos se han incluído imágenes del resultado cuando fuera necesario, en cualquier caso, todas ellas se encuentran dentro de la ruta [/img](/img) de este mismo repositorio.
+Dentro de dichos documentos se han incluído imágenes del resultado cuando fuera necesario, en cualquier caso, todas ellas se encuentran dentro de la ruta /img de este mismo repositorio.
+
+Además, en este repositorio también se encuentra (el documento)[files/Reparto.pdf] que usamos para repartirnos las tareas entre los diferentes miembros del grupo.
