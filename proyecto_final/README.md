@@ -1,4 +1,4 @@
-# Proyecto Final Administracion de Bases de Datos
+# Proyecto Final Administración de Bases de Datos
 
 ## Miembros del grupo
 - Aram Pérez Dios (alu0101244488)
