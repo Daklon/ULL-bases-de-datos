@@ -1,4 +1,4 @@
-# Repositorio de Prácticas de Base de Datos ULL
+# Proyecto Final Administracion de Bases de Datos
 
 ## Miembros del grupo
 - Aram Pérez Dios (alu0101244488)
@@ -7,6 +7,7 @@
 - Javier Herrera Serpa (alu0100830972)
 
 ## Descripción
+El Proyecto se trata de una base de datos para la gestion de una **empresa** que tiene varios **concesionarios de coches**.
 Esta tarea se divide en varias partes. La primera consiste en la elaboración de un supuesto, definiendo los requistos para dicho supuesto, y su posterior revisión. Una vez tuvimos el visto bueno de los requisitos procedimos a redactar los modelos ER/E, Lógico relacionales y Logico Objeto-Relacional.
 Finalmente pasamos a la parte de implementación creando el script de generación de la estructura de la base de datos y el script para la carga de datos.
 
